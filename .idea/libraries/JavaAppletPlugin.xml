@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JavaAppletPlugin">
+    <CLASSES>
+      <root url="file:///Library/Internet Plug-Ins/JavaAppletPlugin.plugin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///Library/Internet Plug-Ins/JavaAppletPlugin.plugin" recursive="false" />
+  </library>
+</component>
