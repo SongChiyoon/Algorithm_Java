@@ -2,6 +2,17 @@ package Kosaraju;
 import java.util.ArrayList;
 import java.util.List;
 
+// Song
+/* Description for Strong connected graph Algorithm
+	- use stack for DFS
+	 1) DFS and keep pushing the nodes to stack
+	 2) Transpose the graph -> reverse the graph (using temp Stack)
+	 3) keep poping the nodes from the stack, and keep constructing the strongly connected components
+
+	 @@ Strongly connected graph search 의 활용 사례
+	 	군집화 된 cluster를 찾거나 혹은 recommendation algorithm에 쓰인다.
+
+ */
 public class App {
 
 	public static void main(String[] args) {

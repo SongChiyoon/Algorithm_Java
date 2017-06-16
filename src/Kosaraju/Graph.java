@@ -7,11 +7,11 @@ public class Graph {
 
 	private List<Vertex> vertexList;
 	private List<Edge> edgeList;
-	
-	public Graph(){
-		
+
+	public Graph() {
+
 	}
-	
+
 	public Graph(List<Vertex> vertexList, List<Edge> edgeList) {
 		this.vertexList = vertexList;
 		this.edgeList = edgeList;
@@ -32,27 +32,26 @@ public class Graph {
 	public void setEdgeList(List<Edge> edgeList) {
 		this.edgeList = edgeList;
 	}
-	
-	public Graph getTransposeGraph(){
-		
-		Graph transposeGraph = new Graph();
-	
-		List<Vertex> transposeVertexList = new ArrayList<>();
-		
-		for(Vertex vertex : this.vertexList){
-			transposeVertexList.add(vertex);
+
+	public Graph getTransposedGraph(){
+
+		Graph transposed = new Graph();
+
+		List<Vertex> transposedVertexList = new ArrayList<>();
+
+		for(Vertex vertex : vertexList ){
+
+			transposedVertexList.add(vertex);
+
 		}
-		
-		for(Edge edge : this.edgeList){
-			transposeVertexList.get(transposeVertexList.indexOf(edge.getTargetVertex())).addNeighbor(edge.getStartVertex());
+
+		for(Edge edge : edgeList){
+			//transpose given graph
+			transposedVertexList.get(transposedVertexList.indexOf(edge.getTargetVertex())).addNeighbor(edge.getStartVertex());
 		}
-		
-		transposeGraph.setVertexList(transposeVertexList);
-		
-		return transposeGraph;
-	}
-	
-	public Graph getNormalGraph(){
-		return null;
+
+		transposed.setVertexList(transposedVertexList);
+
+		return transposed;
 	}
 }

@@ -8,50 +8,60 @@ public class Vertex {
 	private int id;
 	private String name;
 	private boolean visited;
-	private List<Vertex> adjacenlist;
+	private List<Vertex> adjacenciesList;
 	private int componentId;
+
 	public Vertex(int id, String name) {
 		this.id = id;
 		this.name = name;
-		this.adjacenlist = new ArrayList<>();
+		this.adjacenciesList = new ArrayList<>();
 	}
+
 	public int getId() {
 		return id;
 	}
+
 	public void setId(int id) {
 		this.id = id;
 	}
+
 	public String getName() {
 		return name;
 	}
+
 	public void setName(String name) {
 		this.name = name;
 	}
+
 	public boolean isVisited() {
 		return visited;
 	}
+
 	public void setVisited(boolean visited) {
 		this.visited = visited;
 	}
-	public List<Vertex> getAdjacenlist() {
-		return adjacenlist;
+
+	public List<Vertex> getAdjacenciesList() {
+		return adjacenciesList;
 	}
-	public void setAdjacenlist(List<Vertex> adjacenlist) {
-		this.adjacenlist = adjacenlist;
+
+	public void setAdjacenciesList(List<Vertex> adjacenciesList) {
+		this.adjacenciesList = adjacenciesList;
 	}
+
 	public int getComponentId() {
 		return componentId;
 	}
+
 	public void setComponentId(int componentId) {
 		this.componentId = componentId;
 	}
+
 	public void addNeighbor(Vertex v){
-		this.adjacenlist.add(v);
+		this.adjacenciesList.add(v);
 	}
 	@Override
 	public String toString(){
 		return this.name;
 	}
-	
-	
 }
