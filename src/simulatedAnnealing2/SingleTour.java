@@ -26,6 +26,6 @@ public class SingleTour {
 		return tours;
 	}
 	public void generate(){
-		for(int )
+
 	}
 }

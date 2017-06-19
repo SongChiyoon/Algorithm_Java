@@ -46,7 +46,7 @@ public class Graph {
 		}
 
 		for(Edge edge : edgeList){
-			//transpose given graph
+			// add vertex's edge
 			transposedVertexList.get(transposedVertexList.indexOf(edge.getTargetVertex())).addNeighbor(edge.getStartVertex());
 		}
 
