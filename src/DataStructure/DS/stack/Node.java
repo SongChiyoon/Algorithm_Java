@@ -1,4 +1,4 @@
-package DataStructure;
+package DataStructure.DS.stack;
 
 /**
  * Created by songchiyun on 2017. 6. 19..
