@@ -1,4 +1,4 @@
-# study_Algorithm in Java from Udemy academy (https://www.udemy.com/advanced-algorithms-in-java)
+# study_Algorithm and Data structure in Java from Udemy academy ## (https://www.udemy.com)
 1. Breadth-First Search
 2. Depth-First Search
 3. Shortest Path Algorithms
