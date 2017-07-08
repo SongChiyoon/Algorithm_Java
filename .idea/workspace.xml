@@ -2,75 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e7b315f-b433-43d4-911f-8602a4ccd3da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ArbitrageDetection/App.class" afterPath="$PROJECT_DIR$/bin/ArbitrageDetection/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ArbitrageDetection/BellmanFord.class" afterPath="$PROJECT_DIR$/bin/ArbitrageDetection/BellmanFord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ArbitrageDetection/Edge.class" afterPath="$PROJECT_DIR$/bin/ArbitrageDetection/Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ArbitrageDetection/Vertex.class" afterPath="$PROJECT_DIR$/bin/ArbitrageDetection/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BellmanFordAlgorithm/App.class" afterPath="$PROJECT_DIR$/bin/BellmanFordAlgorithm/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BellmanFordAlgorithm/BellmanFord.class" afterPath="$PROJECT_DIR$/bin/BellmanFordAlgorithm/BellmanFord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BellmanFordAlgorithm/Edge.class" afterPath="$PROJECT_DIR$/bin/BellmanFordAlgorithm/Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BellmanFordAlgorithm/Vertex.class" afterPath="$PROJECT_DIR$/bin/BellmanFordAlgorithm/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BreadthFirstSearch/App.class" afterPath="$PROJECT_DIR$/bin/BreadthFirstSearch/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BreadthFirstSearch/BreadthFirstSearch.class" afterPath="$PROJECT_DIR$/bin/BreadthFirstSearch/BreadthFirstSearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BreadthFirstSearch/Vertex.class" afterPath="$PROJECT_DIR$/bin/BreadthFirstSearch/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/CycleDetectionDFS/App.class" afterPath="$PROJECT_DIR$/bin/CycleDetectionDFS/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/CycleDetectionDFS/CycleDetection.class" afterPath="$PROJECT_DIR$/bin/CycleDetectionDFS/CycleDetection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/CycleDetectionDFS/Vertex.class" afterPath="$PROJECT_DIR$/bin/CycleDetectionDFS/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DAGShortestPath/AcyclicShortestPath.class" afterPath="$PROJECT_DIR$/bin/DAGShortestPath/AcyclicShortestPath.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DAGShortestPath/App.class" afterPath="$PROJECT_DIR$/bin/DAGShortestPath/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DAGShortestPath/Edge.class" afterPath="$PROJECT_DIR$/bin/DAGShortestPath/Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DAGShortestPath/TopologicalSort.class" afterPath="$PROJECT_DIR$/bin/DAGShortestPath/TopologicalSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DAGShortestPath/Vertex.class" afterPath="$PROJECT_DIR$/bin/DAGShortestPath/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/App.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/DepthFirstSearch.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/DepthFirstSearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/Vertex.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Dijkstra/App.class" afterPath="$PROJECT_DIR$/bin/Dijkstra/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Dijkstra/DijkstraAlgorithm.class" afterPath="$PROJECT_DIR$/bin/Dijkstra/DijkstraAlgorithm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Dijkstra/Edge.class" afterPath="$PROJECT_DIR$/bin/Dijkstra/Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Dijkstra/Vertex.class" afterPath="$PROJECT_DIR$/bin/Dijkstra/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kosaraju/App.class" afterPath="$PROJECT_DIR$/bin/Kosaraju/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kosaraju/DepthFirstOrdering.class" afterPath="$PROJECT_DIR$/bin/Kosaraju/DepthFirstOrdering.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kosaraju/Edge.class" afterPath="$PROJECT_DIR$/bin/Kosaraju/Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kosaraju/Graph.class" afterPath="$PROJECT_DIR$/bin/Kosaraju/Graph.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kosaraju/KosarjuAlgorithm.class" afterPath="$PROJECT_DIR$/bin/Kosaraju/KosarjuAlgorithm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kosaraju/Vertex.class" afterPath="$PROJECT_DIR$/bin/Kosaraju/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kruskal/App.class" afterPath="$PROJECT_DIR$/bin/Kruskal/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kruskal/DisJointSet.class" afterPath="$PROJECT_DIR$/bin/Kruskal/DisJointSet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kruskal/Edge.class" afterPath="$PROJECT_DIR$/bin/Kruskal/Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kruskal/Kruskal.class" afterPath="$PROJECT_DIR$/bin/Kruskal/Kruskal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kruskal/Node.class" afterPath="$PROJECT_DIR$/bin/Kruskal/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Kruskal/Vertex.class" afterPath="$PROJECT_DIR$/bin/Kruskal/Vertex.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/deleteBlock/Solution.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/PrimJarnikGreedy/Algorithm.class" afterPath="$PROJECT_DIR$/bin/PrimJarnikGreedy/Algorithm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/PrimJarnikGreedy/App.class" afterPath="$PROJECT_DIR$/bin/PrimJarnikGreedy/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/PrimJarnikGreedy/Edge.class" afterPath="$PROJECT_DIR$/bin/PrimJarnikGreedy/Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/PrimJarnikGreedy/Graph.class" afterPath="$PROJECT_DIR$/bin/PrimJarnikGreedy/Graph.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/PrimJarnikGreedy/Vertex.class" afterPath="$PROJECT_DIR$/bin/PrimJarnikGreedy/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Prims/Algorithm.class" afterPath="$PROJECT_DIR$/bin/Prims/Algorithm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Prims/App.class" afterPath="$PROJECT_DIR$/bin/Prims/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Prims/Edge.class" afterPath="$PROJECT_DIR$/bin/Prims/Edge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Prims/Vertex.class" afterPath="$PROJECT_DIR$/bin/Prims/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TopologicalOrdering/App.class" afterPath="$PROJECT_DIR$/bin/TopologicalOrdering/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TopologicalOrdering/TopologicalOrdering.class" afterPath="$PROJECT_DIR$/bin/TopologicalOrdering/TopologicalOrdering.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TopologicalOrdering/Vertex.class" afterPath="$PROJECT_DIR$/bin/TopologicalOrdering/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/WebCrawler/App.class" afterPath="$PROJECT_DIR$/bin/WebCrawler/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/WebCrawler/BFS.class" afterPath="$PROJECT_DIR$/bin/WebCrawler/BFS.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/WebCrawler/Vertex.class" afterPath="$PROJECT_DIR$/bin/WebCrawler/Vertex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/deleteBlock/Solution.class" afterPath="$PROJECT_DIR$/bin/deleteBlock/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/simulatedAnnealing2/Annealing.class" afterPath="$PROJECT_DIR$/bin/simulatedAnnealing2/Annealing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/simulatedAnnealing2/App.class" afterPath="$PROJECT_DIR$/bin/simulatedAnnealing2/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/simulatedAnnealing2/City.class" afterPath="$PROJECT_DIR$/bin/simulatedAnnealing2/City.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/simulatedAnnealing2/Repository.class" afterPath="$PROJECT_DIR$/bin/simulatedAnnealing2/Repository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/simulatedAnnealing2/SingleTour.class" afterPath="$PROJECT_DIR$/bin/simulatedAnnealing2/SingleTour.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm.iml" afterPath="$PROJECT_DIR$/Algorithm.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Kosaraju/DepthFirstOrdering.java" afterPath="$PROJECT_DIR$/src/Kosaraju/DepthFirstOrdering.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Kosaraju/Edge.java" afterPath="$PROJECT_DIR$/src/Kosaraju/Edge.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Kosaraju/Graph.java" afterPath="$PROJECT_DIR$/src/Kosaraju/Graph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Kosaraju/KosarjuAlgorithm.java" afterPath="$PROJECT_DIR$/src/Kosaraju/KosarjuAlgorithm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/simulatedAnnealing2/SingleTour.java" afterPath="$PROJECT_DIR$/src/simulatedAnnealing2/SingleTour.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PrimJarnikGreedy/Algorithm.java" afterPath="$PROJECT_DIR$/src/PrimJarnikGreedy/Algorithm.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,125 +21,131 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NodeD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/NodeD.java">
+      <file leaf-file-name="DepthFirstSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/DepthFirstSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="130">
+              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LS_vs_Array" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/LS_vs_Array">
+      <file leaf-file-name="BreadthFirstSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BreadthFirstSearch/BreadthFirstSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Entry.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/Entry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashTableArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/HashTableArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-              <folding>
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashTableArrayDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/HashTableArrayDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-              <folding>
-                <element signature="e#231#239#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DynamicArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/DynamicArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedListU.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListU.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="30" column="5" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedListDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="e#197#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedListD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListD.java">
+      <file leaf-file-name="Vertex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Vertex.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="158">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DijkstraAlgorithm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dijkstra/DijkstraAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/graph/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adjList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/graph/adjList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFSgraph.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/graph/DFSgraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#739#748#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListDDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListDDemo.java">
+      <file leaf-file-name="Algorithm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Prims/Algorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="270">
+              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFSDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/graph/DFSDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vertex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dijkstra/Vertex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="31" />
               <folding>
-                <element signature="e#198#206#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#489#490#0" expanded="false" />
+                <element signature="e#530#531#0" expanded="false" />
+                <element signature="e#561#562#0" expanded="false" />
+                <element signature="e#588#589#0" expanded="false" />
+                <element signature="e#628#629#0" expanded="false" />
+                <element signature="e#660#661#0" expanded="false" />
+                <element signature="e#706#707#0" expanded="false" />
+                <element signature="e#744#745#0" expanded="false" />
+                <element signature="e#810#811#0" expanded="false" />
+                <element signature="e#864#865#0" expanded="false" />
+                <element signature="e#898#899#0" expanded="false" />
+                <element signature="e#928#929#0" expanded="false" />
+                <element signature="e#975#976#0" expanded="false" />
+                <element signature="e#1013#1014#0" expanded="false" />
+                <element signature="e#1051#1052#0" expanded="false" />
+                <element signature="e#1085#1086#0" expanded="false" />
+                <element signature="e#1139#1140#0" expanded="false" />
+                <element signature="e#1185#1186#0" expanded="false" />
+                <element signature="e#1220#1221#0" expanded="false" />
+                <element signature="e#1251#1252#0" expanded="false" />
+                <element signature="e#1299#1300#0" expanded="false" />
+                <element signature="e#1339#1340#0" expanded="false" />
+                <element signature="e#1384#1385#0" expanded="false" />
+                <element signature="e#1416#1417#0" expanded="false" />
+                <element signature="e#1478#1479#0" expanded="false" />
+                <element signature="e#1557#1558#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -230,23 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CycleDetectionDFS/Vertex.java" />
-        <option value="$PROJECT_DIR$/src/CycleDetectionDFS/App.java" />
-        <option value="$PROJECT_DIR$/src/CycleDetectionDFS/CycleDetection.java" />
-        <option value="$PROJECT_DIR$/src/deleteBlock/Solution.java" />
-        <option value="$PROJECT_DIR$/src/jumpFlog/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Dijkstra/Edge.java" />
-        <option value="$PROJECT_DIR$/src/Dijkstra/Vertex.java" />
-        <option value="$PROJECT_DIR$/src/Dijkstra/App.java" />
-        <option value="$PROJECT_DIR$/src/Dijkstra/DijkstraAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/BreadthFirstSearch/BreadthFirstSearch.java" />
-        <option value="$PROJECT_DIR$/src/ArbitrageDetection/BellmanFord.java" />
-        <option value="$PROJECT_DIR$/src/simulatedAnnealing2/SingleTour.java" />
-        <option value="$PROJECT_DIR$/src/Kosaraju/App.java" />
-        <option value="$PROJECT_DIR$/src/Kosaraju/Edge.java" />
-        <option value="$PROJECT_DIR$/src/Kosaraju/Vertex.java" />
-        <option value="$PROJECT_DIR$/src/Kosaraju/KosarjuAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/Kosaraju/DepthFirstOrdering.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/Kosaraju/Graph.java" />
         <option value="$PROJECT_DIR$/src/DynamicArray.java" />
@@ -263,6 +187,41 @@
         <option value="$PROJECT_DIR$/src/DataStructure/DS/hash/Entry.java" />
         <option value="$PROJECT_DIR$/src/DataStructure/DS/hash/HashTableArray.java" />
         <option value="$PROJECT_DIR$/src/DataStructure/DS/hash/HashTableArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/PrimJarnikGreedy/Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/stack/StackArray.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/stack/StackArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/stack/StackDArray.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/stack/StackDArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/stack/Node.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/stack/StackLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/stack/StackLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/queue/QueueArray.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/queue/QueueArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/queue/QueueDArray.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/queue/QueueDArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/queue/Node.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/queue/NodeD.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/queue/QueueLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/queue/QueueLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/collection/mycollections.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/collection/collectionLink.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/collection/mycollectionArray.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/collection/mycollectionHash.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/collection/mycollectionsets.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/collection/Student.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/collection/myQueue.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/search/DataSet.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/search/InterplationSearch.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/sort/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/graph/adjList.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/graph/Node.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/graph/DFSgraph.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/DS/graph/DFSDemo.java" />
       </list>
     </option>
   </component>
@@ -294,7 +253,6 @@
     <panes>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -345,12 +303,115 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Prims" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dijkstra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DepthFirstSearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="DataStructure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataStructure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataStructure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graph" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,6 +425,12 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DataStructure.DS.queue" />
+      <recent name="DataStructure.DS.stack" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -376,10 +443,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashTableArrayDemo">
-    <configuration default="false" name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="test" />
+  <component name="RunManager" selected="Application.DFSDemo">
+    <configuration default="false" name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.DS.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="DataStructure.DS.sort.SelectionSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -392,14 +464,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="DynamicArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
+          <option name="PATTERN" value="DataStructure.DS.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="DataStructure.DynamicArrayDemo" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.DS.sort.QuickSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -412,14 +484,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
+          <option name="PATTERN" value="DataStructure.DS.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedListDemo" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.DS.sort.MergeSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -432,14 +504,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LinkedListDDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
+          <option name="PATTERN" value="DataStructure.DS.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedListDDemo" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.DS.sort.InsertSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -452,14 +524,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="HashTableArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="DFSDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DataStructure.DS.hash.*" />
+          <option name="PATTERN" value="DataStructure.DS.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="DataStructure.DS.hash.HashTableArrayDemo" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.DS.graph.DFSDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -876,19 +948,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DynamicArrayDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LinkedListDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LinkedListDDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.HashTableArrayDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SelectionSort" />
+      <item index="1" class="java.lang.String" itemvalue="Application.QuickSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MergeSort" />
+      <item index="3" class="java.lang.String" itemvalue="Application.InsertSort" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DFSDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HashTableArrayDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LinkedListDDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LinkedListDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DynamicArrayDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DFSDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InsertSort" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MergeSort" />
+        <item index="3" class="java.lang.String" itemvalue="Application.QuickSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -919,7 +991,12 @@
       <workItem from="1497617793274" duration="217000" />
       <workItem from="1497618023182" duration="251000" />
       <workItem from="1497618277639" duration="3921000" />
-      <workItem from="1497858178538" duration="5067000" />
+      <workItem from="1497858178538" duration="5625000" />
+      <workItem from="1498013345335" duration="8750000" />
+      <workItem from="1498193680257" duration="7050000" />
+      <workItem from="1498380598643" duration="6330000" />
+      <workItem from="1498445586824" duration="5201000" />
+      <workItem from="1499150118158" duration="2641000" />
     </task>
     <task id="LOCAL-00001" summary="data structure">
       <created>1497867312766</created>
@@ -932,10 +1009,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28403000" />
+    <option name="totallyTimeSpent" value="58933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -946,13 +1024,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3689168" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3689168" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28513733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3085622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -982,11 +1060,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Dijkstra/DijkstraAlgorithm.java</url>
-          <line>25</line>
-          <properties />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Kosaraju/Graph.java</url>
           <line>45</line>
           <properties />
@@ -1002,308 +1075,52 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/deleteBlock/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/Entry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CycleDetectionDFS/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="41" column="45" lean-forward="false" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CycleDetectionDFS/Vertex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="51" column="43" lean-forward="false" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CycleDetectionDFS/CycleDetection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jumpFlog/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/BellmanFordAlgorithm/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dijkstra/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArbitrageDetection/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-99">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BellmanFordAlgorithm/Edge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BellmanFordAlgorithm/BellmanFord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="52" column="16" lean-forward="true" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BellmanFordAlgorithm/Vertex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BreadthFirstSearch/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BreadthFirstSearch/BreadthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CycleDetectionDFS/App.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/HashTableArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/deleteBlock/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/HashTableArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        <state relative-caret-position="195">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CycleDetectionDFS/CycleDetection.java">
+    <entry file="file://$PROJECT_DIR$/src/PrimJarnikGreedy/Algorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        <state relative-caret-position="483">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dijkstra/Edge.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/stack/StackArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="323">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="42" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BreadthFirstSearch/Vertex.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/stack/StackArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="248">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CycleDetectionDFS/Vertex.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/stack/StackDArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="51" column="43" lean-forward="false" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Vertex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dijkstra/Vertex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simulatedAnnealing2/Annealing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prims/Algorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArbitrageDetection/BellmanFord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dijkstra/DijkstraAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kruskal/DisJointSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simulatedAnnealing2/SingleTour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#555#556#0" expanded="false" />
-            <element signature="e#574#575#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simulatedAnnealing2/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simulatedAnnealing2/Repository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#193#194#0" expanded="false" />
-            <element signature="e#213#214#0" expanded="false" />
-            <element signature="e#253#254#0" expanded="false" />
-            <element signature="e#284#285#0" expanded="false" />
-            <element signature="e#321#322#0" expanded="false" />
-            <element signature="e#348#349#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/DepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="52" column="12" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#943#944#0" expanded="false" />
-            <element signature="e#978#979#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kosaraju/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kosaraju/Edge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kosaraju/DepthFirstOrdering.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kosaraju/KosarjuAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kosaraju/Vertex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="60" column="36" lean-forward="false" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kosaraju/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/DynamicArrayDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding>
-            <element signature="e#202#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="13" column="58" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -1315,37 +1132,180 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListU.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/stack/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/stack/StackLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/DS/queue/QueueArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/queue/QueueArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/queue/QueueArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
-          <caret line="30" column="5" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-          </folding>
+          <caret line="42" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="42" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListD.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/stack/StackDArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="281">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/queue/QueueDArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#197#205#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="39">
+          <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/queue/QueueDArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/stack/StackLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/queue/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/queue/NodeD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/queue/QueueLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/queue/QueueLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="11" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/collection/mycollectionHash.java" />
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/collection/myQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="47" column="49" lean-forward="false" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/collection/mycollectionsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/collection/mycollectionArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="46" column="9" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/collection/collectionLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/collection/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/search/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/search/InterplationSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="5" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1353,76 +1313,169 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#198#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/NodeD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/LS_vs_Array">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/HashTable.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListU.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="390">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/Entry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure/DynamicArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="135">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/HashTableArray.java">
+    <entry file="file://$PROJECT_DIR$/src/Dijkstra/Edge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="false" />
+            <element signature="e#426#427#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#506#507#0" expanded="false" />
+            <element signature="e#544#545#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#632#633#0" expanded="false" />
+            <element signature="e#678#679#0" expanded="false" />
+            <element signature="e#717#718#0" expanded="false" />
+            <element signature="e#752#753#0" expanded="false" />
+            <element signature="e#808#809#0" expanded="false" />
+            <element signature="e#856#857#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/hash/HashTableArrayDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/Dijkstra/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dijkstra/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#489#490#0" expanded="false" />
+            <element signature="e#530#531#0" expanded="false" />
+            <element signature="e#561#562#0" expanded="false" />
+            <element signature="e#588#589#0" expanded="false" />
+            <element signature="e#628#629#0" expanded="false" />
+            <element signature="e#660#661#0" expanded="false" />
+            <element signature="e#706#707#0" expanded="false" />
+            <element signature="e#744#745#0" expanded="false" />
+            <element signature="e#810#811#0" expanded="false" />
+            <element signature="e#864#865#0" expanded="false" />
+            <element signature="e#898#899#0" expanded="false" />
+            <element signature="e#928#929#0" expanded="false" />
+            <element signature="e#975#976#0" expanded="false" />
+            <element signature="e#1013#1014#0" expanded="false" />
+            <element signature="e#1051#1052#0" expanded="false" />
+            <element signature="e#1085#1086#0" expanded="false" />
+            <element signature="e#1139#1140#0" expanded="false" />
+            <element signature="e#1185#1186#0" expanded="false" />
+            <element signature="e#1220#1221#0" expanded="false" />
+            <element signature="e#1251#1252#0" expanded="false" />
+            <element signature="e#1299#1300#0" expanded="false" />
+            <element signature="e#1339#1340#0" expanded="false" />
+            <element signature="e#1384#1385#0" expanded="false" />
+            <element signature="e#1416#1417#0" expanded="false" />
+            <element signature="e#1478#1479#0" expanded="false" />
+            <element signature="e#1557#1558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dijkstra/DijkstraAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/graph/DFSDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BreadthFirstSearch/BreadthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DepthFirstSearch/DepthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prims/Algorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/graph/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/graph/adjList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/DS/graph/DFSgraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
-            <element signature="e#231#239#0" expanded="true" />
+            <element signature="e#739#748#0" expanded="true" />
           </folding>
         </state>
       </provider>
