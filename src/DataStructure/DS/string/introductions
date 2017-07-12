@@ -1,0 +1,27 @@
+//16년 7월 12일
+
+
+StringBuilder and StringBuffer are the other options instead of String
+
+Buffer is synchronized. (slower)
+
+string : immutable -> every time we change the value, a new string is created 항상 변수를 새로 만들어준다
+
+string builder : mutable, sequcence of chars  / change without creating new one /memory efficient
+
+ex.
+String s = "hi song chi yun"
+StringBuilder sb = new StringBuilder("string builder")
+
+String의 장점을 substring이  O(1)이지만 StringBuilder의 경우 O(N)이나 된다
+하지만 concat의 경우 반대이다
+
+
+Reverse String
+
+string : O(N^2)
+stringBuilder : O(N)
+\
+
+Suffix arrays : doen't require huge memory
+sort의 경우 O(nlogn)
